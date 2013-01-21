@@ -1,5 +1,6 @@
 ##Special for Redpoint
-###Hi
+by Denis Lunev
+
 ^^^^^^^^^^^^^^^^^^^^^^^^
 ##Slide #1
 Hi guys!
