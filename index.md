@@ -1,5 +1,4 @@
-##Special for Redpoint
-by Denis Lunev
+#Title
 
 ^^^^^^^^^^^^^^^^^^^^^^^^
 ##Slide #1
@@ -7,4 +6,5 @@ Hi guys!
 
 ^^^^^^^^^^^^^^^^^^^^^^^^
 ##Slide2
-How is it?
+* item
+* item2
